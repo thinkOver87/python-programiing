@@ -1,2 +1,2 @@
 # python-programiing
-Learning python
+Learning python for data science
